@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"jupyter.notebookFileRoot": "",
+		"python.terminal.executeInFileDir": true,
+		"python.terminal.executeInFileDir": true,
+		"jupyter.notebookFileRoot": "${fileDirname}"
+
+	}
+}
